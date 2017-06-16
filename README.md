@@ -8,7 +8,7 @@ Polar Data Catalogue: https://www.polardata.ca/
 
 Canadian Cryospheric Information Network: https://ccin.ca/
 
-Canadian Open Governmen Portal: http://open.canada.ca/data/en/dataset
+Canadian Open Government Portal: http://open.canada.ca/data/en/dataset
 
 British Columbia Geographic Open Data Portal: http://www2.gov.bc.ca/gov/content/data/geographic-data-services
 
