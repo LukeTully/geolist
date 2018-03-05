@@ -13,3 +13,5 @@ Canadian Open Government Portal: http://open.canada.ca/data/en/dataset
 British Columbia Geographic Open Data Portal: http://www2.gov.bc.ca/gov/content/data/geographic-data-services
 
 Canadian National Fire Database: http://cwfis.cfs.nrcan.gc.ca/ha/nfdb
+
+North Dakota GIS Hub https://gishubdata.nd.gov/search/type/dataset
